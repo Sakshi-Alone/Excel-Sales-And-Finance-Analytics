@@ -11,7 +11,7 @@
 
 # Finance Report:
 ## Objective:
-- [x] Generate Profit and Loss (P&L) reports by fiscal year. [Profit and Loss Reports by Fiscal Year & by Months](https://github.com/Sakshi-Alone/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf&https://github.com/Sakshi-Alone/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf)
+- [x] Generate Profit and Loss (P&L) reports by fiscal year. [Profit and Loss Reports by Fiscal Year](https://github.com/Sakshi-Alone/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf) & [Months](https://github.com/Sakshi-Alone/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf)
 - [x] Create P&L reports by markets. [Profit and Loss Reports by Markets](https://github.com/Sakshi-Alone/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)
 ## Why Analyze Finance Data:
 - [x] Evaluates financial performance and supports decision-making.
